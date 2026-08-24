@@ -1,40 +1,62 @@
-# Ayman Beghdadi — Academic Website
+# 👋 Ayman Beghdadi, Ph.D.
 
-Static academic website prepared for GitHub Pages.
+**Researcher in Robotics, Computer Vision & Artificial Intelligence**
 
-## Expected URL
+Ph.D. in Robotics, Computer Vision and Artificial Intelligence from **Université Paris-Saclay**.
 
-If this repository is created as `beghdadi57/aymanbeghdadi`, the URL will be:
+My research focuses on robust perception for autonomous and interactive systems, with particular interests in:
 
-`https://beghdadi57.github.io/aymanbeghdadi/`
+- 🤖 Robotics & Autonomous Systems
+- 👁️ Computer Vision
+- 🗺️ Dynamic Visual SLAM
+- 🧠 Artificial Intelligence & Deep Learning
+- 🕸️ Scene Understanding & Graph Neural Networks
+- 📡 Multimodal Perception & Sensor Fusion
+- 🥽 Virtual / Mixed Reality & Human–Machine Interaction
+- ⚡ Embedded & Real-Time AI
 
-## Files
+## 🌐 Academic Website
 
-- `index.html`: complete single-page website
-- `sitemap.xml`: sitemap for Google Search Console
-- `assets/profile.jpg`: optional profile photo
+👉 **[aymanbeghdadi.github.io](https://Aymanbegh.github.io/aymanbeghdadi/)**
 
-The page falls back to the initials `AB` if `assets/profile.jpg` is missing.
+My academic website contains more information about my research activities, publications, projects, teaching experience and open-source work.
 
-## Deployment
+## 🔬 Research Projects
 
-1. Create a public repository named `aymanbeghdadi`.
-2. Upload `index.html`, `sitemap.xml` and the `assets` folder.
-3. Open `Settings` → `Pages`.
-4. Choose `Deploy from a branch`.
-5. Select `main` and `/ (root)`.
-6. Wait for deployment.
+Current and recent research topics include:
 
-## Google Search Console
+- **Dynamic Visual SLAM** for complex and dynamic environments
+- **FAE-SLAM** — context-aware and depth-guided dynamic RGB-D SLAM
+- **Scene understanding using Graph Neural Networks**
+- **Hybrid GCNN-CNN architectures** for lightweight scene classification
+- **CD-COCO** — context-aware distorted image dataset for robust computer vision
+- **PVD4RCV** — photorealistic multi-distortion video dataset
+- **Multimodal human behavior analysis**
+- **Gaze estimation and human-centered perception**
 
-Create an URL-prefix property for:
+## 🛠️ Technical Skills
 
-`https://beghdadi57.github.io/aymanbeghdadi/`
+**Languages:**  
+C / C++ · Python · Java · MATLAB · VHDL
 
-Then submit:
+**Computer Vision & AI:**  
+OpenCV · PyTorch · TensorFlow · YOLO · Graph Neural Networks · Deep Learning · RGB-D Vision
 
-`https://beghdadi57.github.io/aymanbeghdadi/sitemap.xml`
+**Robotics & Systems:**  
+ROS · Visual SLAM · Sensor Fusion · Embedded Systems · Real-Time Systems · Linux
 
-## Before publishing
+## 📚 Academic Profiles
 
-Review the current professional title, affiliation, publication counts, publication status and contact details.
+- 🌐 [Academic Website](https://beghdadi57.github.io/aymanbeghdadi/)
+- 💻 [GitHub](https://github.com/Aymanbegh)
+- 🆔 [ORCID](https://orcid.org/0000-0002-3039-232X)
+- 📚 [DBLP](https://dblp.org/pid/322/7038)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayman-beghdadi/)
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Ayman-Beghdadi)
+
+## 📫 Contact
+
+For research collaborations, academic projects or discussions related to robotics and computer vision:
+
+**Ayman Beghdadi, Ph.D.**  
+📧 beghdadi.ayman.a@gmail.com
