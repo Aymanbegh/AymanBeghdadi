@@ -17,7 +17,7 @@ My research focuses on robust perception for autonomous and interactive systems,
 
 ## 🌐 Academic Website
 
-👉 **[aymanbeghdadi.github.io](https://Aymanbegh.github.io/aymanbeghdadi/)**
+👉 **[aymanbeghdadi.github.io](https://aymanbegh.github.io/aymanbeghdadi/)**
 
 My academic website contains more information about my research activities, publications, projects, teaching experience and open-source work.
 
